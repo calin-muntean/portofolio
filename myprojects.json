@@ -1,0 +1,59 @@
+[
+    {
+      "title": "Tip Calculator",
+      "description": "The application calculates the tip based on a bill amount and a preset or custom percentage. It includes a reset functionality.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "liveLink": "https://calin-muntean.github.io/tips/",
+      "repoLink": "https://github.com/calin-muntean/tips"
+    },
+    {
+      "title": "Responsive Hamburger Menu",
+      "description": "A three-level menu that turns into a hamburger menu on mobile devices.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "liveLink": "https://calin-muntean.github.io/hamburgerMenu/",
+      "repoLink": "https://github.com/calin-muntean/hamburgerMenu"
+    },
+    {
+      "title": "Currency Converter",
+      "description": "A currency converter that uses an external API for conversion rates. It can work offline using locally stored conversion rates.",
+      "technologies": ["HTML", "CSS", "JavaScript", "API"],
+      "liveLink": "https://calin-muntean.github.io/exchange/",
+      "repoLink": "https://github.com/calin-muntean/exchange"
+    },
+    {
+      "title": "Who Pays the Bill",
+      "description": "The app allows users to add participants and randomly select who will pay the restaurant bill.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "liveLink": "https://calin-muntean.github.io/whoPays/",
+      "repoLink": "https://github.com/calin-muntean/whoPays"
+    },
+    {
+      "title": "Coming Soon",
+      "description": "This is a simple page indicating that the site is under construction and will open soon. It includes a message and a countdown timer for launch.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "liveLink": "https://calin-muntean.github.io/comingsoon/",
+      "repoLink": "https://github.com/calin-muntean/comingsoon"
+    },
+    {
+      "title": "Website Layout",
+      "description": "A basic website layout that includes a simple page structure with a header, content sections, sidebar, and footer. An example for responsive design.",
+      "technologies": ["HTML", "CSS"],
+      "liveLink": "https://example.com/layout-website",
+      "repoLink": "https://github.com/calin-muntean/sitelayout"
+    },
+    {
+      "title": "Back to Top Button",
+      "description": "A simple app that adds a 'Back to Top' button to quickly return to the top of the page when the user scrolls down.",
+      "technologies": ["HTML", "CSS"],
+      "liveLink": "https://calin-muntean.github.io/backtotop/",
+      "repoLink": "https://github.com/calin-muntean/backtotop"
+    },
+    {
+      "title": "IT Company Website",
+      "description": "A website dedicated to an IT company, including information about services, team, previous projects, and a contact form.",
+      "technologies": ["HTML", "CSS", "JavaScript", "React"],
+      "liveLink": "https://calin-muntean.github.io/",
+      "repoLink": "https://github.com/calin-muntean/calin-muntean.github.io"
+    }
+  ]
+  
