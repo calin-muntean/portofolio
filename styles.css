@@ -26,6 +26,14 @@ body {
   padding: 3rem 2rem;
   text-align: center;
 }
+.about-content{
+  display: flex;
+  justify-content: space-around;
+}
+.about-image{
+  height: 200px;
+border-radius: 100rem;
+}
 
 .about-info {
   max-width: 900px;
